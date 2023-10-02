@@ -3,4 +3,5 @@ BUILD
 compile_commands.json
 .clangd
 .cache
+C12832.lib
 C12832
